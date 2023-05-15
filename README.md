@@ -1,3 +1,4 @@
+[ ex7.pdf](https://github.com/jawahar107/Ex-07-Feature-Selection/files/11474369/ex7.pdf)
 # Ex-07-Feature-Selection
 ## AIM
 To Perform the various feature selection techniques on a dataset and save the data to a file. 
